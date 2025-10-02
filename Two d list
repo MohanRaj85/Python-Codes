@@ -8,7 +8,3 @@ collaps = fruits,vege,desert
 
 print(collaps)
 
-
-a = " m oh a n r a j "
-
-print(a.replace(" ",""))
